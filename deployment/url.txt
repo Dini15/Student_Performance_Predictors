@@ -1,0 +1,2 @@
+* [url dataset](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors?select=StudentPerformanceFactors.csv)
+* [url deployment](https://huggingface.co/spaces/dini15/Student_Performace_Predictions)
